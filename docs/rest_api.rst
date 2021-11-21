@@ -2842,7 +2842,7 @@ Available since firmware version 2.5.6.
 HTTP request
 ````````````
 
-`POST /xled/v1/led/playlist/current`
+`POST /xled/v1/playlist/current`
 
 `X-Auth-Token`
 	Authentication token
